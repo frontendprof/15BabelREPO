@@ -2,7 +2,6 @@ const colors = ["green", "red", "cyan", "red", "yellow","magenta","coral", "rgba
 
 
 const btn=document.getElementById("btn");
-
 const color=document.querySelector(".color");
 
 btn.addEventListener("click",function(){
