@@ -5,7 +5,7 @@ body{
 
 
 main {
-    min-height: 100vh;
+    min-height: 70vh;
     display: grid;
     place-items: center;
   }
@@ -44,6 +44,6 @@ main {
   }
 
   .btn:hover {
-    color: var(--clr-white);
-    background: var(--clr-black);
+    color: #fff;
+    background: rgb(16, 3, 133);
   }
