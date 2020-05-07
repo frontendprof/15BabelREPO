@@ -19,6 +19,18 @@ btns.forEach(function(btn){
             count=0;
         }
 
+        if(count>0){
+            val.style.color="green";
+        }
+
+        else if(count<0){
+            val.style.color="red";
+        }
+
+        else{
+            val.style.color="black";
+        }
+
         val.textContent=count;
 
     });
