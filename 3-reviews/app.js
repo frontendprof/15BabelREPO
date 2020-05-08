@@ -5,35 +5,35 @@ const reviews=[
         "id": 1,
         "name": "Erv Penketh",
         "job": "Data Coordiator",
-        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIgSURBVDjLdVI9a1RBFD3z9r3sVwrdWCwYUkSLWKaQWOwf0EpIKSIi6QSxWyxSrE3+gUVEQREsU1ooiIRImhSCCImNIcj6kcVNNm/fzP2yeJu46yYXDpdh7jlzOHOdmeG47r+7azeuXMdWZwNiClEZQMHKuHqhgedrL/Dm4Xt3zIkxVEwMtXxYVMCqg/4PIfAw5T+BwDADSGRIJIeq5neeRgSi4QMFRhEVFKMSSBhBCEEIJIxioYyyTYICne2AArc62x+X72Q/MXXQRplzu2kUoV2ZwttvH0CBW2cKvLJfe/3v+7147vYkTc/gSCIYZ3CcYrq/i1s7r3tLs25vmOOOf8FeXlsA3FqYf1T3oQhN/4CzIxhlMA6AK6BYcqhsP2mD7Gby4PPmaAbCTZ67V/dchqRdSMiJRgGapeDub6SdLrKZxboeSnMsRFNuUHUW2j/MiRwAJih5GAco9cEH++hzBfDSGM9AraZWgFEG5QATgnJOljAQ8RnEM1Rc7ZRvNJgIlOnE+glk0DnAxMP0lD0wtY6jHqAyap19ngN5AAqwBwidcQdC63H3C1ycQCWMWM9fFkRJGSX/AxywPu6gryvx1rN24lJESQlQhQnBiAAzFMpVFKsJ4k8bbdNoZWwPACA8vrwERivML9aziYsQVphPAUoxcbSLeGujreyWz63urJ4qAABZ89KC9rgJ0oaaq0EAM9dRxrpOJCvnn37dHJ7/C8hDreOQ71qxAAAAAElFTkSuQmCC",
-        "text": "error: undefined method `id' for nil:NilClass"
+        "img": 
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, quam? Quo eum alias quae corporis fuga praesentium consectetur ut quas eaque repellat quod quasi tenetur, quos animi laboriosam reprehenderit voluptatem!"
       }, 
       {
         "id": 2,
         "name": "Kathrine Sinkinson",
         "job": "Analog Circuit Design manager",
-        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHcSURBVDjLhZPZihpREIb7JeY2wbcQmjxZbrIQ5nKSIYQ8gyuKOwqKihuKKy5xnJ5GRzteTIjTp51e+HPqDDaKSy7qoqvq/+qvYykNBgP0+310u110Oh202220Wi00m000Go0rANKlkHq9HhzHOYr5fC4g1Wr1IkSiySRQVVVMVhTFhVCOu0CpVDoLkcgyNdM0StTr9eZms4FlWSJPwEqlgnw+fxIi0dRdIxe/cMuqYRgw2SO2v9OiNpvNUCwWkcvljiASTd5Ztm0bJLa3GvTpZ+iT9xySErXpdEoukE6nDyAS35Gt12vRZJomTP0R+q9PYPc3MB6+C9AOMplMyAXi8bgLkWq12ju+I9M0TTRtnzp45pOZ8g2G+vMIMh6PyQUikYiACEq5XJb5jmy1Wr1C/vQ55CMM5XYPwr+1hKgPh0NygVAodOXuUigUZL4jWy6Xx5CHH2B313gaXcOxLeEimUwiEAi8PXhRvp+czWbZYrHYg3yAfvcFf6e3eDE2+2KPu8J+ZDIZOZVKMbrEV0gPz/df4ViGK/b7/R73EU8dRyKRkGOxGKNL3P3EJOb5A/FZAEU0GvXyl2Z0YKPR6KT4IoAiHA57g8EgI7HP5/OcPOX//V35VC8XvzlX/we1NDqN64FopAAAAABJRU5ErkJggg==",
-        "text": "error: undefined method `id' for nil:NilClass"
+        "img": 
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, quam? Quo eum alias quae corporis fuga praesentium consectetur ut quas eaque repellat quod quasi tenetur, quos animi laboriosam reprehenderit voluptatem!"
       }, 
       {
         "id": 3,
         "name": "Emlyn Bernardoni",
         "job": "Quality Engineer",
-        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJQSURBVDjLpVNNaBNBFH6RTVNimmQtpg1EpCFVXONPTD1UViQeoihIPXgXURTFXjyKiAh6EkFEFCweCiKIh4IWWqihULC2aRpqC62bSlqRQjZ6CEm6OzOb9c3UBoM5CB34eMMw3/e+x3vPYds2bOVIF59NxC3LgsGbJ2b4w/kH7+OMUqACBCjZiJ+eXp1pJuC4/XraNvFTaiJ9rYZueo8oz8G2gDEGXIjH+eU1cLW6elDsy/SLG6RBwDAMeySzAgNji2uccCW5P3jmaLghS/zyE/B4PFBdr+7u6h0dIAY5O9z/UQhJmUwGEtEodO2Qgm1tXtjVIUM2mwVeVrlcBlVVgRATS2kBYpqAZNVcJwvI7RYOCoWCres65PN5UBQFAoEA3J27JTJbDEuhDMkMyRTJFFqICwUpLGlf56YeZg9JmqaBz+eDUqkEJmbYPMfaj4NVQ4Eaq4Oiq5/VXxgZuqscVK7v+bwtEokIwt/t5JmphRktsgFGwBQwEFgGB+8SYVTK5XLg9XrrZC7EbadWxuq2sW4wETzu9HeCXtBBW1zOai+/qVI4HIZisSiImy7uHX4k2sfLCoVC0J7oxzK9sD042ZdvTb/BzKtIjokuyLIMbrcb/H6/gCRJ4HQ6GwTFTCC+L+ydDR34MY4Oz9UnMXbpsZi2PnWfIAwOT4op5ATrD5G3lJfF75j5dMMo98Si4vJufEp8OpVMNJ35oaEPQvCfXUjPzgsHnR0BkWlkNNXUQQ3RbPEc/LH7wv1XlUr5JB9ln19e0t7eSf7vNjq2us6/ATm4jnKH3lxFAAAAAElFTkSuQmCC",
-        "text": "error: undefined method `id' for nil:NilClass"
+        "img": 
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, quam? Quo eum alias quae corporis fuga praesentium consectetur ut quas eaque repellat quod quasi tenetur, quos animi laboriosam reprehenderit voluptatem!"
       }, 
       {
         "id": 4,
         "name": "Felipe Chater",
         "job": "Staff Scientist",
-        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJ/SURBVDjLpZNfSFNRHMe/293umptu01GJMF1WQ5dRQgVl0UthYNHDiAQhChF6bdBLrz1Erz3Ug7CewqeoF0XzZVialnaXSHOYM2Ko6Szn3P2ze+/pnDMdodZLFw7n3nPP9/P7/n6/cyyEEPzPY9u5MDU1FdN1vatYLNroDDrzoWkam/sikUjnnoBEIuGhgl6v1xtxOCqgUhFME9wfdenzeTE4OHCTfu0GSJLUzsR+v7/O5XIhvZABi26aBCYxKYjAoDBVVfdOgW4eCAQCfEGWFRSpeDoxSQFmeVy6fIWnsSeA5SiKInK5XCmyYaA5fIJHJ1vRWbGrhRRmX3QSwd2CzdU4LErmFgcwskFFbBNrCrOekD7Q2eDR2b/AxSqcb7TD6e+CJ3gSv9IhJId6H5cdlGpF+GYGCLe08ujMRaUxAb9rCe7ac1j7+gWiRUNl1UG4awKesoNtAIfQyEzM353DCPkIvMF2qIt9ECss+CYlUVS0rCLnz5YBZbFRKhoDOPUEWmp1eBqvQck8g1XUYXfXY19hermQt7WfuvcmxQGsPdsnkllmKZDsKI4eWYfn8HUqfgqrXYeWC2IlPrZhyIWO1ui4VO4Cc8C6IAhCKe/V92io+Yn94avQlnohiATKej0W4+O08oXjoej4wnYbrVsOJkZGRpDP57GRjqPBR9tJ6rA4/QQmFGyu1WF5dAbPZwMIRccW/jwHHNDd3X1mbm6uo7+/fzKTfInmth44vr9F6vU7SINrmBn6CGfbA2Rl666DZNl5Gx/2HNPv37krwGpAGn6F+XQan8Q2ZFUHa3EyFos1/RNw40K13HrogO10UxDEro7KP1Zudzz6PP+36/wbU7aHpoSFkuUAAAAASUVORK5CYII=",
-        "text": "error: undefined method `id' for nil:NilClass"
+        "img": 
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, quam? Quo eum alias quae corporis fuga praesentium consectetur ut quas eaque repellat quod quasi tenetur, quos animi laboriosam reprehenderit voluptatem!"
       }, 
       {
         "id": 5,
         "name": "Camille Chesher",
         "job": "Tax Accountant",
-        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHxSURBVDjLpZPLa1NREIe/PKhSNK2g9UEIKqEFRSgooi4sCJqCuHEpduEDwZU7/wGhu27cdKWoG7WQrsSgKAV3SnFTAqZCW22xlAbTpL0xyb0z4+Ke5mHrqgMHfouZ3/lm5pyImbGTiLLDiG+KsTfLTRQ1wwARwMBUUQPRUIvCoxupSIcBwJF9XRiGKRhgaqiBtZmowtxKdSuBmGHmChTMDDNH44xUDVVD/G1aEAkRMUPVFW5q7TTxRbcamGiYaKCqmOIK1FEp6fIzDu36SSwYBO53biFQUDFE1NG0tIqSLE1yOr3KicwdMse+8HW0f7iDQANFXI8tklAnN3KcS03TM3AZ70eORG8KS61lcw+O320aBAGIaLP/dpM+8vSeuopU8+zen6QmSxweGuwOvNJ4y0AEkbiburvdwlWWgz780gLRWJFI1KMrUYRalY3leqyNwBBxxW76Cb/AmdgE3QcEDXyiugbRvZjf4NurQi1fqNxrIzA3g/D2ZH2K/uAdA5eGsMZ7IrLOzNsa5lUxhYW5ys2Rl/PZNgKlsFh1g4OLBz9x8kqGRnGceLyHmY8+r5euU9xzHgNePD+bDffvHsy/Z3Fy+HN9ZdS8wjWbfnxh/cmt9Mh2efH//bJf88UPlfLU0epv78/s7OrD20+/T2yX9xfxXpKxy4ipWwAAAABJRU5ErkJggg==",
-        "text": "error: undefined method `id' for nil:NilClass"
+        "img": 
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, quam? Quo eum alias quae corporis fuga praesentium consectetur ut quas eaque repellat quod quasi tenetur, quos animi laboriosam reprehenderit voluptatem!"
       }
 ]
